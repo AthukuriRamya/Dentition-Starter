@@ -50,4 +50,7 @@ Static Web App URL : https://athukuriramya.github.io/Dentition-Starter/
 <img width="948" alt="contact2" src="https://user-images.githubusercontent.com/117963818/205340631-4f649efa-1df6-4519-af25-7d86f949f3f4.png">
 
 <img width="943" alt="contact3" src="https://user-images.githubusercontent.com/117963818/205340655-5574267d-9ed5-4e65-a767-c87efdd8f5cf.png">
+## BOT
+<img width="955" alt="Screenshot_20221202_102304" src="https://user-images.githubusercontent.com/117963818/205344520-4b1fd025-7436-4dc5-850c-d411dce6d880.png">
 
+<img width="959" alt="Screenshot_20221202_102359" src="https://user-images.githubusercontent.com/117963818/205344591-dcc3acfd-7aa8-4518-b012-6a1c47ad006d.png">
