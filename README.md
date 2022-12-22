@@ -17,7 +17,9 @@ Project Description : Good and healthy teeth gives beautyfull smile.
 
 Primary Azure Technology : Static Web Apps, Azure Health Bot
 
-Static Web App URL : https://athukuriramya.github.io/Dentition-Starter/
+Static Web App URL : https://salmon-pebble-0ccbe8a10.2.azurestaticapps.net/
+
+Azure Health Bot : https://salmon-pebble-0ccbe8a10.2.azurestaticapps.net/bot.html
 
 ### MY WEBSITE LINK IS : https://athukuriramya.github.io/Dentition-Starter/
 
