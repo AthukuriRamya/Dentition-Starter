@@ -57,7 +57,7 @@ Azure Health Bot : https://salmon-pebble-0ccbe8a10.2.azurestaticapps.net/bot.htm
 
 <img width="943" alt="contact3" src="https://user-images.githubusercontent.com/117963818/205340655-5574267d-9ed5-4e65-a767-c87efdd8f5cf.png">
 
-### BOT
+### Azure Health BOT
 
 <img width="955" alt="Screenshot_20221202_102304" src="https://user-images.githubusercontent.com/117963818/205344520-4b1fd025-7436-4dc5-850c-d411dce6d880.png">
 
